@@ -1,3 +1,7 @@
+![CI/CD](https://img.shields.io/badge/CI-CD-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 # 🚀 DevSecOps CI/CD Pipeline  
 
 ## 📌 Overview  
